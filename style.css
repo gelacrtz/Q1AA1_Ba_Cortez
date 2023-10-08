@@ -1,0 +1,106 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar{
+    border: 1px solid khaki;
+    background-color: beige;
+    height: 5vh;
+    background-size: 100%;
+    padding: 5px;
+}
+#navbar div{
+    display: inline;
+}
+#Home a{
+    background-color: blanchedalmond;
+    color: burlywood;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: right;
+    opacity: 0.8;
+}
+#photos a{
+    background-color: blanchedalmond;
+    color: burlywood;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 1vh;
+    margin-right: 2vh;
+    float: right;
+    opacity: 0.8;
+}
+#logo{
+    margin: left;
+    float: left;
+}
+#logo img{
+    border: 2px solid black;
+    width: 30px;
+    border-radius: 360px;
+
+}
+#banner{
+    padding: 60px;
+    border: 1px;
+    background-image: url(IMG_4680\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    height: 80vh;
+}
+#banner h1{
+    color: burlywood;
+    text-shadow: 1px whitesmoke;
+}
+#banner p{
+    margin: 25px;
+    color: burlywood;
+    text-shadow: 1px whitesmoke;
+}
+#banner .photos a{
+    border: white;
+    border-radius: 5px;
+    color:antiquewhite;
+    background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: right;
+    align-items: right;
+    opacity: 0.8;
+}
+#footer{
+    color:white;
+    border: 1px saddlebrown;
+    background-color: rgb(237, 237, 226);
+    height: 5vh;
+    background-size: 100%;
+    padding: 5px;
+}
+#social-medias{
+    float: left;
+    margin: left;
+}
+#photos{
+    margin-left: 10px;
+    margin: 5px;
+    padding: 30px;
+    background-color: white;
+}
+#a img{
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+}
+#b img{
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+}
+#c img{
+    margin: 10px;
+    padding: 10px;
+    width: 300px;    
+}
