@@ -13,8 +13,8 @@
     display: inline;
 }
 #Home a{
-    background-color: blanchedalmond;
-    color: burlywood;
+    background-color: white;
+    color: black;
     text-decoration: none;
     border-radius: 5px;
     padding: 1vh;
@@ -73,7 +73,7 @@
 }
 #footer{
     color:white;
-    border: 1px saddlebrown;
+    border: 1px white;
     background-color: rgb(237, 237, 226);
     height: 3%;
     background-size: 75%;
