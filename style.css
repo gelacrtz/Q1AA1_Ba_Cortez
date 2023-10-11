@@ -75,16 +75,16 @@
     color:white;
     border: 1px saddlebrown;
     background-color: rgb(237, 237, 226);
-    height: 5vh;
-    background-size: 100%;
-    padding: 5px;
+    height: 3%;
+    background-size: 75%;
+    padding: 3%;
 }
 #social-medias{
     float: left;
     margin: left;
 }
 #photos{
-    margin-left: 10px;
+    margin-left: 8px;
     margin: 5px;
     padding: 30px;
     background-color: white;
@@ -92,15 +92,15 @@
 #a img{
     margin: 10px;
     padding: 10px;
-    width: 300px;
+    width: 150px;
 }
 #b img{
     margin: 10px;
     padding: 10px;
-    width: 300px;
+    width: 150px;
 }
 #c img{
     margin: 10px;
     padding: 10px;
-    width: 300px;    
+    width: 150px;    
 }
