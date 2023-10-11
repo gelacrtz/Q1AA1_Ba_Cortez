@@ -38,21 +38,21 @@
 }
 #logo img{
     border: 2px solid black;
-    width: 30px;
-    border-radius: 360px;
+    width: 15px;
+    border-radius: 150px;
 
 }
 #banner{
-    padding: 60px;
+    padding: 30px;
     border: 1px;
     background-image: url(IMG_4680\ \(1\).jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-size: cover;
-    height: 80vh;
+    height: 40vh;
 }
 #banner h1{
-    color: burlywood;
+    color: saddlebrown;
     text-shadow: 1px whitesmoke;
 }
 #banner p{
@@ -62,7 +62,7 @@
 }
 #banner .photos a{
     border: white;
-    border-radius: 5px;
+    border-radius: 2.5px;
     color:antiquewhite;
     background-color: white;
     padding: 10px;
@@ -75,9 +75,9 @@
     color:white;
     border: 1px white;
     background-color: rgb(237, 237, 226);
-    height: 3%;
-    background-size: 75%;
-    padding: 3%;
+    height: 5px;
+    background-size: 100%;
+    padding: 2.5%;
 }
 #social-medias{
     float: left;
