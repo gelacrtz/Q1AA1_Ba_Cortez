@@ -23,8 +23,8 @@
     opacity: 0.8;
 }
 #photos a{
-    background-color: blanchedalmond;
-    color: burlywood;
+    background-image: url(background.avif) height="100%" width="100%";
+    color: black;
     text-decoration: none;
     border-radius: 5px;
     padding: 1vh;
